@@ -1,6 +1,6 @@
 # taobao_web-crawler 淘宝爬虫1.5
-it's a web crawler that can store info in your taobao cart into a formatted word documents
-2023/8/4
+It's a web crawler that can store info in your Taobao cart into formatted Word documents
+
 # 【更新条目】 2023/8/4
 	1.增加了点开商品界面截图。
 	2.修改了写入格式问题。
